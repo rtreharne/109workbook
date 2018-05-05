@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "gulp-markdown": "1.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-markdown-toc": "^1.1.0"
+  }
+}
