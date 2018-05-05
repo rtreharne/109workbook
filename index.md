@@ -1,13 +1,9 @@
-<head>
-    <title>LIFE109 Almanac</title>
-</head>
+# LIFE109: Almanac
 
 <!-- toc -->
 
-
-<div class="document-title">The LIFE109 Almanac</div>
-
 # Why do I need maths?
+
 
 ## I don't have A-Level maths. Should I be worried?
 
@@ -20,3 +16,5 @@
 ##  Exercise 1: Basics
 
 ## Exercise 2: Tables, Charts and Graphs
+
+I've changed again
